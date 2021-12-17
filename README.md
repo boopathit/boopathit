@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boopathit
 - 👀 I’m interested in writing code, photography and gaming
 - 🌱 I’m currently learning Java Programming Language
-- 💞️ I’m also trying to develop a hyprind application
+- 💞️ I’m also trying to develop a hybrid application
 - 📫 How to reach me 
      Email: getboopathi.t@gmail.com
      LinkedIn: https://www.linkedin.com/in/boopathit/
